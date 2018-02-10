@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Index
+</title>
+<style>
+body{
+
+  background-image: url(images/redderbear.jpg);
+  background-repeat: y-repeat;
+}
+
+a:hover{
+  background-image: url(static.gif);
+  color:black;
+  }
+
+h1{
+  color:red;
+  }
+p{
+
+  color: pink;
+  font-size: 20px;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="time.css">
+</head>
+<body>
+<h1 >
+Home
+</h1>
+
+
+<h1>
+<a href="back">TIME</a>
+<img src="sad2.png"
+</h1>
+</body>
+</html>

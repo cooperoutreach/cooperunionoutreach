@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Index
+</title>
+<style>
+body{
+
+  background-color: black;
+  background-repeat: y-repeat;
+}
+
+a:hover{
+  background-image: url(back.gif);
+  color:white;
+  }
+
+h1{
+  color:white;
+  }
+p{
+
+  color: pink;
+  font-size: 20px;
+}
+</style>
+</head>
+<link rel="stylesheet" type="text/css" href="time.css">
+<body>``
+
+
+<h1>
+<a href="proxindex">Please take me home.</a>
+
+</h1>
+</body>
+</html>
